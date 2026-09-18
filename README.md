@@ -13,7 +13,7 @@ Two things I care about: understanding what the model is doing instead of trusti
 | [CryptoCampus](https://github.com/yeipis/cryptocampus-dapp) | Final degree project (9.2/10). A DApp unifying five university services — library loans, shop, academic badges, printing credits and room booking — on Ethereum, with custodial wallets so students never touch a private key | Solidity, Hardhat, Foundry, Next.js, TypeScript, Prisma, PostgreSQL |
 | [smart-contracts-web3](https://github.com/arturito-7/smart-contracts-web3) | ERC-20 and ERC-721 contracts with OpenZeppelin, plus Flask dApps that compile, deploy and interact with them on Ganache | Solidity, Python, Flask, web3.py |
 | [constraint-programming-minizinc-z3](https://github.com/arturito-7/constraint-programming-minizinc-z3) | Constraint models for shift planning and for an oil blending and refining problem, solved declaratively and with an SMT solver | MiniZinc, Python, Z3 |
-| [GestiFleet](https://github.com/paulal20/GestiFleet) | Full-stack web app for managing corporate electric vehicle fleets, with a REST API, role management and a strong accessibility focus | Node.js, Express, MySQL, Bootstrap, AJAX |
+| [GestiFleet](https://github.com/Paula211/GestiFleet) | Team project, built with two coursemates. Full-stack web app for managing corporate electric vehicle fleets, with a REST API, role management and a strong accessibility focus | Node.js, Express, MySQL, Bootstrap, AJAX |
 | [la-tina](https://github.com/arturito-7/la-tina) | Restaurant shift and clock-in manager: a JavaFX desktop app with a WebView front end and JPA persistence | Java, JavaFX, Hibernate, MySQL |
 
 ## Stack
